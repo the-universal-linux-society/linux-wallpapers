@@ -17,4 +17,7 @@ Feel free to use, share, edit.
 ![solus2](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/ecef245d-44dd-4c40-9ca8-908f89fec9e5)
 ### Solus Linux (monitor mode)
 ![solus](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/25c892cc-bc1b-43ac-b240-115b602548fc)
+### The Universal Linux Society wallpaper (TULS)
+![logo3](https://github.com/the-universal-linux-society/linux-wallpapers/assets/161962528/6497583f-1c6b-4e01-ad28-46502df50195)
+
 
