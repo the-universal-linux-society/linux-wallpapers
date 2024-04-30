@@ -5,6 +5,8 @@ All of our linux created wallpapers will be uploaded here!
 Feel free to use, share, edit. 
 
 -------
+### The Code (linux)
+![code](https://github.com/the-universal-linux-society/linux-wallpapers/assets/161962528/812946ed-521b-4601-9f23-632553ce2ae0)
 ### Debian (debian tux)
 ![Debian-Tux](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/507d9490-7bfb-4b5d-9a89-4abb6b422de7)
 ### OpenSUSE (fuzzy monitor mode)
