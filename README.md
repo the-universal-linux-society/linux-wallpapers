@@ -5,8 +5,14 @@ All of our linux created wallpapers will be uploaded here!
 Feel free to use, share, edit. 
 
 -------
+### The Universal Linux Society (tuls gang)
+![tuls-gang](https://github.com/the-universal-linux-society/linux-wallpapers/assets/161962528/f23ce0f2-ce6e-4c9f-9f1d-4bb5af0807a6)
 ### The Code (linux)
 ![code](https://github.com/the-universal-linux-society/linux-wallpapers/assets/161962528/812946ed-521b-4601-9f23-632553ce2ae0)
+### Zorin (coded vision)
+![zorin](https://github.com/the-universal-linux-society/linux-wallpapers/assets/161962528/b4dcb059-5eb0-4242-9805-4f5eb7cfa0f3)
+### Zorin (tux)
+![zorin-tux](https://github.com/the-universal-linux-society/linux-wallpapers/assets/161962528/67f58435-af7e-45ee-b3f9-e9e2f8ba2c99)
 ### Debian (debian tux)
 ![Debian-Tux](https://github.com/distrohopperuk/linux-wallpapers/assets/159959630/507d9490-7bfb-4b5d-9a89-4abb6b422de7)
 ### OpenSUSE (fuzzy monitor mode)
